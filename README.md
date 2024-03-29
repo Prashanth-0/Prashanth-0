@@ -8,4 +8,4 @@
 
 
 
-![Profile Views](https://img.shields.io/github/profile-views/Prashanth-0/Prashanth-0)
+![Profile Views](https://img.shields.io/github/profile-views/Prashanth-0)
