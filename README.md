@@ -9,3 +9,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prashanth-0)
 
+
+## Most Used Languages
+
+![Top Language](https://img.shields.io/github/languages/top/Prashanth-0/Prashanth-0)
+
+
