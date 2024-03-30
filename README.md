@@ -18,13 +18,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashanth-0&show_icons=true&locale=en&layout=compact" alt="Prashanth-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&locale=en" alt="Prashanth-0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth-0&" alt="Prashanth-0" /></p>
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Prashanth-0&theme=gruvbox&border_radius=4.5) -->
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth-0&" alt="Prashanth-0" /></p>
+
 
