@@ -18,9 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashanth-0&show_icons=true&locale=en&layout=compact" alt="Prashanth-0" /></p>
 
-### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&theme=gruvbox)
+
+![Forrest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Prashanth-0&theme=gruvbox&border_radius=4.5) -->
 
