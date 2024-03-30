@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashanth-0&show_icons=true&locale=en&layout=compact" alt="Prashanth-0" /></p>
 
+<img width=325 align="center" src="https://github-readme-stats-Prashanth-0.vercel.app/api/top-langs/?username=Prashanth-0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&theme=gruvbox)
