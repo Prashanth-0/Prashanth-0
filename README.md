@@ -23,7 +23,7 @@
 
 
 
-![Forrest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth-0&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Prashanth-0&theme=gruvbox&border_radius=4.5) -->
 
@@ -31,4 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth-0&" alt="Prashanth-0" /></p>
 
-
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee ' /></a>
+</div>
