@@ -25,6 +25,11 @@
 
 
 
+
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashanth-0&show_icons=true&locale=en&layout=compact" alt="Prashanth-0" /></p>
  
 
